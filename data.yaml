@@ -1,0 +1,18 @@
+train: /content/dataset/train
+val: /content/dataset/val
+
+nc: 12 # Number of classes
+
+names:
+  - black-pawn
+  - black-rook
+  - black-knight
+  - black-bishop
+  - black-queen
+  - black-king
+  - white-pawn
+  - white-rook
+  - white-knight
+  - white-bishop
+  - white-queen
+  - white-king
