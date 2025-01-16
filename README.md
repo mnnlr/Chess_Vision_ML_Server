@@ -7,3 +7,21 @@ Analyze chessboard states from images and predict optimal moves. By combining YO
 - State Representation: Automatically converts board positions into FEN format.
 - Move Prediction: Leverages Stockfish to suggest the best move based on the input.
 - Real-Time Processing: Optimized for fast and efficient performance.
+
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+- Python 3.8+
+- Required Python packages (see [requirements.txt](requirements.txt))
+- YOLO pre-trained weights
+- Stockfish (latest version recommended)
+
+
+### Usage
+
+1. Run the main script with an input image:
+   ```bash
+   python chessvision.py --image path/to/chessboard.jpg
