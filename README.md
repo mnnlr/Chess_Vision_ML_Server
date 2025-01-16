@@ -24,4 +24,4 @@ Ensure you have the following installed:
 
 1. Run the main script with an input image:
    ```bash
-   python chessvision.py --image path/to/chessboard.jpg
+   python main.py --image path/to/chessboard.jpg
