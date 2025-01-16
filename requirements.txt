@@ -1,0 +1,24 @@
+# Requirements to be downloaded first
+
+# Machine Learning
+numpy
+opencv-python
+pytorch
+torchvision
+
+# YOLO
+ultralytics
+
+# Chess Libraries
+python-chess
+
+# Stockfish Integration
+stockfish
+
+# Utilities
+matplotlib
+Pillow
+
+# Optional for Development
+tqdm
+pytest
