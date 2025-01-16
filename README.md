@@ -25,3 +25,10 @@ Ensure you have the following installed:
 1. Run the main script with an input image:
    ```bash
    python main.py --image path/to/chessboard.jpg
+
+
+## Acknowledgments
+
+- [YOLO](https://github.com/ultralytics/yolov5) for chessboard detection.
+- [Stockfish](https://stockfishchess.org/) for move predictions.
+- Chess community for inspiration and resources.
